@@ -1,0 +1,16 @@
+PODS:
+  - AgoraAudio_iOS (3.0.1)
+
+DEPENDENCIES:
+  - AgoraAudio_iOS (~> 3.0.1)
+
+SPEC REPOS:
+  trunk:
+    - AgoraAudio_iOS
+
+SPEC CHECKSUMS:
+  AgoraAudio_iOS: a91eb5c913e300dab7127f1e03ed5b90e6c441d5
+
+PODFILE CHECKSUM: 9093082c7bd82e63a5dfd7f517ee988d8e6cbeb1
+
+COCOAPODS: 1.9.3
